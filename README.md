@@ -49,6 +49,9 @@ For further help, please visit the [Makeroid Community](https://community.makero
 * [List of Extensions](extensions/list-of-extensions.md)
 * [Creating Extensions](extensions/creating-extensions.md)
 
+## Publish
+* Publish
+
 #### Other
 
 * [Backpack](other/backpack.md)
